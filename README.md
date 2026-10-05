@@ -121,10 +121,13 @@ PostgreSQL
 
 ### 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayshairam&bg_color=0D1117&color=58A6FF&line=7C3AED&point=06B6D4&area=true&hide_border=true&custom_title=Aysha%20Iram%20%E2%80%94%20Contribution%20Activity" width="96%"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ayshairam&theme=github-dark&hide_border=true&area=true"
+  alt="Aysha Iram GitHub Contribution Activity"
+  width="96%"
+/>
 
 </div>
-
 ---
 
 # 🛠️ TECHNOLOGY STACK
