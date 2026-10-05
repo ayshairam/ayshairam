@@ -134,3 +134,144 @@ I enjoy working across the complete engineering lifecycle:
 │ 🗄️ Databases             │
 │ 🚀 AI Systems            │
 ╰──────────────────────────╯
+
+---
+
+<div align="center">
+
+# 📊 AYSHA IRAM — GITHUB DASHBOARD
+
+### ⚡ LIVE DEVELOPMENT ANALYTICS
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### 📈 GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=ayshairam&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7C3AED&text_color=FFFFFF&cache_seconds=1800"/>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🧠 Languages Used
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayshairam&layout=donut&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&cache_seconds=1800"/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+### 🔥 CONTRIBUTION STREAK
+
+<img src="https://streak-stats.demolab.com?user=ayshairam&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=7C3AED&fire=06B6D4&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="90%"/>
+
+<br><br>
+
+### 📅 CONTRIBUTION ACTIVITY
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayshairam&bg_color=0D1117&color=58A6FF&line=7C3AED&point=06B6D4&area=true&hide_border=true&custom_title=Aysha%20Iram%20%E2%80%94%20Contribution%20Activity" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🛠️ TECHNOLOGY ANALYSIS
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+### 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&perline=4&theme=dark"/>
+
+<br><br>
+
+Machine Learning  
+Deep Learning  
+Computer Vision
+
+</td>
+
+<td width="25%" align="center">
+
+### ✨ GEN AI
+
+🧠 LLMs  
+🔎 RAG  
+🗂️ FAISS  
+🤗 Hugging Face  
+🦙 Ollama
+
+</td>
+
+<td width="25%" align="center">
+
+### 💻 DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,react,nextjs&perline=3&theme=dark"/>
+
+<br>
+
+REST APIs  
+Backend  
+Full Stack
+
+</td>
+
+<td width="25%" align="center">
+
+### 🗄️ DATA
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite&perline=4&theme=dark"/>
+
+<br>
+
+Databases  
+Vector Search  
+Data Processing
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+### ⚙️ ENGINEERING TOOLKIT
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&perline=6&theme=dark"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🧠 ENGINEERING ANALYSIS BOARD
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+### 🤖 AI
+
+```text
+ML
+████████████████████
+
+Deep Learning
+██████████████████
+
+Predictive AI
+████████████████
