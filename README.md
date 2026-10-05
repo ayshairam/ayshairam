@@ -119,15 +119,28 @@ PostgreSQL
 
 <div align="center">
 
+### 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=ayshairam&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=7C3AED&fire=06B6D4&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="90%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
 ### 📈 Contribution Activity
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ayshairam&theme=github-dark&hide_border=true&area=true"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayshairam&theme=github_dark"
   alt="Aysha Iram GitHub Contribution Activity"
   width="96%"
 />
 
 </div>
+
+<br>
+
 ---
 
 # 🛠️ TECHNOLOGY STACK
