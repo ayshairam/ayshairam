@@ -1,28 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=AYSHA%20IRAM&fontSize=62&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20ENGINEER&descSize=20&descAlignY=60&animation=fadeIn&color=0:0F172A,35:2563EB,70:7C3AED,100:06B6D4" width="100%"/>
+# 👋 Aysha Iram
+
+### `AI & DATA SCIENCE ENGINEER`
+
+**Machine Learning • Generative AI • LLMs • RAG • Computer Vision • Backend Engineering**
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=Machine+Learning+Engineer;Generative+AI+%7C+LLM+%7C+RAG;Computer+Vision+%7C+Intelligent+Systems;AI+%2B+Backend+Developer;Building+Real-World+AI+Solutions" />
-
-<br><br>
-
 <a href="https://github.com/ayshairam">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-ayshairam-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/aysha-iram-80785a335/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Aysha%20Iram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/ayshairam?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Projects-Explore-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ayshairam&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=ayshairam&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -30,14 +30,16 @@
 
 <div align="center">
 
-## ⚡ AI ENGINEER • BUILDER • PROBLEM SOLVER
+## 🧠 AI ENGINEERING PROFILE
 
 <table>
 <tr>
-<td align="center" width="180">
+
+<td align="center" width="25%">
 
 ### 🤖
-**AI / ML**
+
+## AI / ML
 
 Machine Learning  
 Deep Learning  
@@ -45,38 +47,44 @@ Predictive AI
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="25%">
 
 ### ✨
-**GEN AI**
+
+## GENERATIVE AI
 
 LLMs  
 RAG  
-Embeddings
+Embeddings  
+FAISS
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="25%">
 
 ### 👁️
-**VISION**
 
-Computer Vision  
+## COMPUTER VISION
+
+OpenCV  
 Signal Analysis  
-Monitoring
+Intelligent Monitoring
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="25%">
 
 ### ⚙️
-**ENGINEERING**
+
+## ENGINEERING
 
 Backend  
 APIs  
-Databases
+Databases  
+Full Stack
 
 </td>
+
 </tr>
 </table>
 
@@ -88,39 +96,41 @@ Databases
 
 <table>
 <tr>
-<td width="62%">
 
-### Hi, I'm Aysha Iram 👋
+<td width="65%">
+
+### Building AI that solves real problems.
 
 I'm an **Artificial Intelligence & Data Science Engineer** focused on building practical intelligent systems.
 
-My engineering interests span **Machine Learning, Generative AI, LLMs, RAG, Computer Vision, Data Science and Backend Engineering**.
+My interests span:
 
-I enjoy transforming complex problems into systems that are:
+- 🤖 Artificial Intelligence & Machine Learning
+- ✨ Generative AI & LLM applications
+- 🔎 Retrieval-Augmented Generation
+- 👁️ Computer Vision & signal analysis
+- 📊 Data Science
+- ⚙️ Backend engineering & APIs
+- 🗄️ Databases & intelligent data systems
 
-- 🧠 Intelligent
-- ⚙️ Engineering-focused
-- 📊 Data-driven
-- 🔎 Explainable
-- 🚀 Practical
-- 🌍 Impact-oriented
+I enjoy working across the complete engineering lifecycle:
 
-Currently focused on building **AI systems that move beyond prototypes into real-world applications.**
+**Problem → Data → Intelligence → Backend → Product → Impact**
 
 </td>
 
-<td width="38%" align="center">
+<td width="35%" align="center">
 
 ```text
 ╭──────────────────────────╮
 │       AYSHA IRAM         │
 ├──────────────────────────┤
-│ 🤖 Artificial Intelligence│
-│ 🧠 Machine Learning      │
-│ ✨ Generative AI         │
+│ 🤖 AI / ML               │
+│ ✨ GenAI                 │
 │ 🔎 LLM / RAG             │
 │ 👁️ Computer Vision       │
-│ ⚙️ Backend Engineering   │
 │ 📊 Data Science          │
+│ ⚙️ Backend               │
+│ 🗄️ Databases             │
 │ 🚀 AI Systems            │
 ╰──────────────────────────╯
