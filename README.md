@@ -2,327 +2,155 @@
 
 # 👋 Hi, I'm Aysha Iram
 
-### AI & Data Science Engineer | AI/ML • Generative AI • RAG • Full-Stack Development
-
-**Building intelligent, scalable solutions for real-world problems.**
+### AI & Data Science Engineer • Machine Learning • Computer Vision • NLP • Generative AI
 
 <p>
   <a href="https://github.com/ayshairam">
-    <img src="https://img.shields.io/badge/GitHub-ayshairam-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-ayshairam-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/aysha-iram-80785a335/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aysha%20Iram-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Aysha%20Iram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:ayshairam@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:ayshairam29@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ayshairam29%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=ayshairam&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ayshairam&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+</p>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 👩‍💻 About Me
 
-I'm an **Artificial Intelligence & Data Science Engineer** passionate about building AI systems that move beyond prototypes and solve practical problems.
+I am an **Artificial Intelligence & Data Science undergraduate** at Don Bosco Institute of Technology, Bengaluru, focused on building practical machine learning systems that move beyond experimentation into usable, explainable software.
 
-My work spans **Healthcare AI, Generative AI, RAG, Computer Vision, FinTech, anomaly detection, intelligent monitoring systems, and full-stack development**.
+My work spans **Machine Learning, Computer Vision, NLP, Retrieval-Augmented Generation, risk modelling, data engineering, and full-stack AI systems**.
 
-Currently, I'm focused on designing systems that combine **AI + software engineering + real-world data** to create reliable, deployable products.
+I enjoy working at the intersection of:
 
-```text
-AI/ML              ███████████████████░   95%
-Generative AI      ██████████████████░░   90%
-RAG & AI Agents    ██████████████████░░   90%
-Full-Stack         █████████████████░░░   85%
-Data Engineering   ████████████████░░░░   80%
-Cloud & MLOps      ██████████████░░░░░   70%
-```
-
----
-
-## 🚀 What I'm Working On
-
-🔭 **Sanket — AI-Powered ICU Monitoring & Alarm Verification**
-
-A healthcare AI system designed to reduce false alarms in ICU environments by analysing physiological signals, validating alarm conditions, and providing an interpretable reason for every decision.
-
-### Current learning focus
-
-- 🤖 Advanced Generative AI
-- 🧠 AI Agents & Agentic Systems
+- 🤖 Machine Learning & Applied AI
+- 👁️ Computer Vision
+- 🧠 NLP & Large Language Models
 - 🔎 Retrieval-Augmented Generation
-- ☁️ Cloud & MLOps
-- 🏥 Healthcare AI
-- 📊 Real-time AI systems
-- 🔐 AI for FinTech & AML
+- 📊 Data Analytics & Risk Modelling
+- 🛡️ Financial Crime & Transaction Monitoring
+- ⚙️ Backend & AI System Engineering
+- 🧪 Model Evaluation, Ablation & Explainability
+
+I am particularly interested in building AI systems where **the model's prediction is not enough — the system should also be able to explain why it made that decision.**
 
 ---
 
-# 💼 Experience
+## 🎓 Education
 
-### Software Developer Trainee — Commonwealth Bank of Australia
+**B.E. — Artificial Intelligence & Data Science**  
+**Don Bosco Institute of Technology, Bengaluru — VTU**  
+2023 – 2027 | **CGPA: 8.5**
 
-Worked on a **Retail Banking & AML Transaction Monitoring platform**, developing backend and frontend components for intelligent transaction monitoring.
-
-**Areas involved:**
-
-- Retail banking systems
-- AML transaction monitoring
-- Rule-based anomaly detection
-- Transaction alerts
-- Risk analysis
-- Node.js / Express
-- MongoDB
-- React
-- REST APIs
-- Full-stack application development
+**PCMC — Class XII**  
+Scholars PU College, Bengaluru  
+**94.5%**
 
 ---
 
-# ⭐ Featured Projects
+# 🚀 Featured Work
 
-## 🏥 Sanket — AI-Powered ICU Monitoring
+## 🛡️ Retail Banking & AML Transaction Monitoring
 
-> **Healthcare AI • Biomedical Signals • Explainable AI**
+**Software Developer Trainee — Commonwealth Bank of Australia**
 
-An intelligent ICU alarm verification system that analyses ECG and pulse signals around alarm events to distinguish genuine physiological events from signal artefacts and false alarms.
+A full-stack retail banking and Anti-Money Laundering transaction monitoring platform designed around configurable risk detection, explainable alerts, auditability, and reliable transaction processing.
 
-**Highlights**
+### Engineering highlights
 
-- Physiological signal processing
-- ECG & pulse waveform analysis
-- Signal quality assessment
-- Alarm verification
-- Explainable decisions
-- Real-time monitoring architecture
-- PhysioNet/CinC Challenge 2015 dataset
-
-**Tech:** `Python` `Signal Processing` `Machine Learning` `Healthcare AI`
-
----
-
-## 🏦 Retail Banking & AML Transaction Monitoring
-
-> **FinTech • AML • Risk Detection • Full-Stack**
-
-A banking platform for monitoring transactions and identifying suspicious activity using configurable AML rules and risk analysis.
-
-**Highlights**
-
-- Transaction monitoring
-- AML rule engine
+- Configurable AML rule engine
+- Large transaction detection
 - High-frequency transaction detection
-- Structuring detection
-- High-value transaction detection
-- Risk-based alerts
-- Customer/account management
-- Admin & employee roles
-- MongoDB-backed transaction history
+- Structuring / threshold-avoidance detection
+- Explainable **0–100 risk scoring**
+- Correlated AML alerts
+- Role-based authentication and authorization
+- Idempotent transaction processing
+- Transaction rollback handling
+- Full audit logging
+- Automated unit and integration testing
+- MongoDB-backed transaction and alert workflows
+- Node.js / Express backend architecture
+- React-based frontend
 
-**Tech:** `Node.js` `Express` `MongoDB` `React` `JavaScript` `REST API`
+### Repository
 
----
+🔗 **[Retail Banking & AML Transaction Monitoring](https://github.com/ayshairam/Retail-Banking-AML-Transaction-Monitoring)**
 
-## 🛡️ Trinetra
-
-> **AI • Blockchain • Security • Intelligent Monitoring**
-
-An intelligent security-oriented system combining AI-driven analysis with blockchain-based concepts for trustworthy and tamper-resistant monitoring.
-
-**Focus areas**
-
-- AI-powered analysis
-- Security
-- Blockchain
-- Intelligent monitoring
-- Data integrity
-
-**Tech:** `Python` `AI/ML` `Blockchain` `Web Technologies`
+The repository contains configurable AML rules including `LARGE_TRANSACTION`, `HIGH_FREQUENCY`, and `STRUCTURING`, with rules evaluated dynamically rather than hard-coded into application logic. :chatgpt-content-reference{index="1"}
 
 ---
 
-## 🌍 Educational Atlas
+# 🧠 Trinetra — AI Bitcoin Transaction Monitoring
 
-> **Generative AI • RAG • Education • Knowledge Systems**
+**Smart India Hackathon 2026 — Team Sentinels**
 
-An AI-powered educational platform designed to provide personalised learning experiences using Retrieval-Augmented Generation and intelligent knowledge retrieval.
+Trinetra is an explainable AI-based transaction monitoring system focused on identifying suspicious Bitcoin transaction activity by connecting blockchain and network-level signals.
 
-**Highlights**
+### Technical approach
 
-- RAG-based knowledge retrieval
-- Personalised learning paths
-- Vernacular learning support
-- Interactive educational modules
-- Progress analytics
-- Mentor connectivity
-- Offline-first architecture
+- Blockchain transaction analysis
+- Wallet/entity resolution
+- Network metadata integration
+- IP / ASN / timing signals
+- Feature engineering across multiple signal families
+- XGBoost-based risk ranking
+- Explainable alert generation
+- SHAP-based per-alert reasoning
+- Dense analytical workflows using DuckDB
+- FastAPI service architecture
+- Offline and reproducible processing
+- Ablation testing across feature families
+- Precision@k evaluation
+- PR-AUC evaluation
+- Comparison against a rules-based baseline
+- Automated testing
 
-**Tech:** `React` `Next.js` `Node.js` `MongoDB` `FAISS` `Sentence Transformers` `Ollama`
+### Engineering focus
 
----
+Rather than producing only a binary suspicious/not-suspicious output, the system is designed around an **explainable lead queue**, allowing investigators to understand which evidence contributed to an alert.
 
-# 🧩 Technical Skills
-
-### 👩‍💻 Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css" />
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
-
-`Generative AI` `RAG` `LLMs` `AI Agents` `Computer Vision` `NLP` `Anomaly Detection` `Signal Processing` `Scikit-Learn` `Hugging Face` `FAISS` `Ollama` `Sentence Transformers`
-
-### 🌐 Full-Stack Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django" />
-</p>
-
-`REST APIs` `Tailwind CSS` `ShadCN/UI` `Vite`
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite" />
-</p>
-
-### ☁️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,firebase,supabase,vscode" />
-</p>
-
-`MongoDB` `PostgreSQL` `FAISS` `Git` `GitHub` `Docker` `Firebase` `Supabase`
+🎥 **[Watch the Trinetra Demo](https://www.youtube.com/watch?v=2Mnk-9X66tM)**
 
 ---
 
-# 📊 GitHub Analytics
+# 👁️ Real-Time Behavioural Surveillance
 
-<div align="center">
+**Final-Year Project**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayshairam&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" />
+A distributed computer-vision pipeline designed for analysing behavioural patterns across multiple CCTV camera feeds.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayshairam&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<a href="https://github.com/ayshairam">
-<img src="https://streak-stats.demolab.com/?user=ayshairam&hide_border=true&theme=transparent" alt="Aysha's GitHub Streak"/>
-</a>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayshairam&hide_border=true&area=true&custom_title=Aysha%20Iram's%20Contribution%20Graph" alt="Contribution Graph"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<a href="https://github.com/ayshairam">
-<img src="https://github-profile-trophy.vercel.app/?username=ayshairam&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies"/>
-</a>
-
-</div>
-
----
-
-# 📌 Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/ayshairam">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayshairam&repo=cba-banking-aml&hide_border=true&theme=transparent" />
-</a>
-
-<a href="https://github.com/ayshairam">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayshairam&repo=Database-mini-project--CBA&hide_border=true&theme=transparent" />
-</a>
-
-</div>
-
----
-
-# 🎯 Current Goals
+### Architecture
 
 ```text
-☑ Build production-ready AI systems
-☑ Work on healthcare & financial intelligence
-☑ Build reliable RAG & Agentic AI systems
-☑ Strengthen MLOps & cloud deployment skills
-☑ Contribute to impactful open-source projects
-☑ Build systems that can move from prototype → production
-```
-
----
-
-# 🏅 Achievements & Highlights
-
-🏆 **1st Place — Techsium AI vs Human Event**
-
-🏆 **Smart India Hackathon — AI/Healthcare Project Development**
-
-🏥 **Healthcare AI Research & ICU Monitoring System**
-
-🏦 **Software Developer Trainee — Commonwealth Bank of Australia**
-
-🤖 **Hands-on experience with Generative AI, RAG & AI systems**
-
-💻 **Full-stack experience across React, Node.js, Django & MongoDB**
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-I'm always interested in collaborating on:
-
-**AI/ML • Generative AI • Healthcare AI • RAG • AI Agents • FinTech • Computer Vision • Intelligent Systems**
-
-<br>
-
-<a href="https://www.linkedin.com/in/aysha-iram-80785a335/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://github.com/ayshairam">
-<img src="https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "Building intelligent systems that solve real-world problems."
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=100&section=footer" />
-
-</div>
+CCTV / Camera Streams
+        │
+        ▼
+      Kafka
+        │
+        ▼
+Spark Structured Streaming
+        │
+        ├──────────────► YOLOv8n
+        │                 Object Detection
+        │
+        └──────────────► MediaPipe BlazePose
+                          33 Pose Keypoints
+                                │
+                                ▼
+                         Pose Sequences
+                                │
+                                ▼
+                         2-Layer LSTM
+                                │
+                                ▼
+                     Behaviour Classification
