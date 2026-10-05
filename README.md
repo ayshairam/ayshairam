@@ -1,203 +1,81 @@
+<!-- ========================================================= -->
+<!--                    AYSHA IRAM — PROFILE                  -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-# ✦ AYSHA IRAM
-
-### AI & DATA SCIENCE ENGINEER
-
-**Machine Learning · Generative AI · Computer Vision · LLMs · RAG · AI Engineering**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:2563EB,70:7C3AED,100:06B6D4&height=230&section=header&text=AYSHA%20IRAM&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20ENGINEER&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://github.com/ayshairam.png?size=300" width="165" alt="Aysha Iram"/>
+<a href="https://github.com/ayshairam">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Data+Science+Engineer;Machine+Learning+%7C+Generative+AI+%7C+Computer+Vision;LLM+%26+RAG+Engineer;AI+%2B+Backend+Developer;Building+Real-World+Intelligent+Systems;Turning+Ideas+Into+Production-Ready+AI" alt="Typing SVG" />
+</a>
 
 <br><br>
 
 <a href="https://github.com/ayshairam">
-<img src="https://img.shields.io/badge/GitHub-ayshairam-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-ayshairam-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/aysha-iram-80785a335/">
-<img src="https://img.shields.io/badge/LinkedIn-Aysha%20Iram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Aysha%20Iram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<img src="https://img.shields.io/badge/Bengaluru-India-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Bengaluru, India"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ayshairam&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 AI × ENGINEERING × IMPACT
-
-### Building intelligent systems that solve real-world problems.
-
-**Data → Intelligence → Engineering → Impact**
-
-</div>
-
----
-
-# 👋 ABOUT ME
-
-I'm **Aysha Iram**, an **Artificial Intelligence & Data Science Engineer** based in Bengaluru, India.
-
-I build practical AI systems at the intersection of **Machine Learning, Generative AI, Large Language Models, Retrieval-Augmented Generation, Computer Vision, Data Science and Software Engineering**.
-
-My focus is on turning models and data into **usable, explainable and engineering-oriented systems** — combining intelligent algorithms with APIs, databases, retrieval pipelines and real-world applications.
-
-### 🎯 CORE FOCUS
-
-<div align="center">
-
-| 🤖 AI & ML | 🧠 Generative AI | 🔎 LLMs & RAG |
-|:---:|:---:|:---:|
-| Machine Learning | Generative AI | Retrieval |
-| Deep Learning | LLM Applications | Vector Search |
-
-| 👁️ Computer Vision | 📊 Data Science | ⚙️ Software Engineering |
-|:---:|:---:|:---:|
-| Visual Intelligence | Analytics | Backend |
-| Signal Analysis | Data Processing | APIs & Databases |
-
-</div>
-
----
-
-# 🧠 AI ENGINEERING STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn&perline=8"/>
+<a href="mailto:aysha.iram@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=ayshairam&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative%20AI-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-Engineer-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Builder-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Generative%20AI-Developer-06B6D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Bengaluru-India-111827?style=flat-square"/>
 
 </div>
 
 ---
 
-# 💻 SOFTWARE ENGINEERING
+# 👩‍💻 About Me
 
-<div align="center">
+<table>
+<tr>
+<td width="60%">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,html,css,tailwind&perline=8"/>
+### Hi, I'm Aysha Iram 👋
 
-<br><br>
+I am an **Artificial Intelligence & Data Science Engineer** passionate about building intelligent software systems that solve real-world problems.
 
-<img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Backend%20Engineering-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System%20Design-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/API%20Integration-0891B2?style=for-the-badge"/>
+My work sits at the intersection of:
 
-</div>
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- ✨ Generative AI
+- 🔎 LLMs & RAG
+- 👁️ Computer Vision
+- 📊 Data Science
+- ⚙️ Backend Engineering
+- 🗄️ Databases & APIs
+- 🚀 AI Product Development
 
----
+I enjoy taking a problem from **idea → architecture → implementation → intelligent system**.
 
-# 🗄️ DATA & DATABASES
+I focus on building practical AI solutions rather than only experimenting with models.
 
-<div align="center">
+</td>
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite&perline=8"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Visualization-7C3AED?style=for-the-badge"/>
-
-</div>
-
----
-
-# 🛠️ TOOLS & DEVELOPMENT
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman&perline=8"/>
-
-</div>
-
----
-
-# 🔬 AI SPECIALIZATION
-
-<div align="center">
-
-| Technology | Focus |
-|:---|:---|
-| 🧠 **LLMs** | Large Language Model Applications |
-| 🔎 **RAG** | Retrieval-Augmented Generation |
-| 📚 **FAISS** | Vector Search & Similarity Search |
-| 🤗 **Hugging Face** | Transformers & NLP |
-| 🦙 **Ollama** | Local LLM Applications |
-| 🔗 **Embeddings** | Semantic Representation |
-| 🧭 **Vector Search** | Semantic Retrieval |
-| ✨ **Prompt Engineering** | LLM Interaction Design |
-| 👁️ **OpenCV** | Computer Vision |
-| 📊 **Scikit-Learn** | Machine Learning |
-| 🧮 **Pandas / NumPy** | Data Processing |
-| 🔥 **PyTorch / TensorFlow** | Deep Learning |
-
-</div>
-
----
-
-# 💼 EXPERIENCE
-
-## 🏦 Commonwealth Bank of Australia
-
-### Software Developer Trainee
-
-**Software Engineering · Backend Development · Transaction Systems**
-
-Worked on software systems involving:
-
-- ⚙️ Backend application development
-- 🔌 REST API development
-- 🗄️ MongoDB integration
-- 💳 Transaction processing
-- 🔍 AML transaction monitoring
-- 🛡️ Rule-based risk detection
-- 📊 Risk scoring
-- 🚨 Automated alert generation
-- 🔗 Frontend / backend integration
-- 🧪 Testing and debugging
-
-### Transaction Intelligence
+<td width="40%">
 
 ```text
-CUSTOMER
-   │
-   ▼
-TRANSACTION
-   │
-   ▼
-DATA PROCESSING
-   │
-   ▼
-AML / RISK RULES
-   │
-   ▼
-PATTERN DETECTION
-   │
-   ▼
-RISK EVALUATION
-   │
-   ▼
-ALERT GENERATION
-   │
-   ▼
-INVESTIGATION
+┌─────────────────────────────┐
+│       AYsha Iram             │
+├─────────────────────────────┤
+│ 🎓 AI & Data Science        │
+│ 🤖 ML / GenAI               │
+│ 🔎 LLM / RAG                │
+│ 👁️ Computer Vision          │
+│ ⚙️ Backend Engineering      │
+│ 🗄️ Databases                │
+│ 🚀 AI Systems               │
+│ 💡 Problem Solver           │
+└─────────────────────────────┘
